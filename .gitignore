@@ -73,3 +73,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignorar archivos grandes o innecesarios
+*.mp4
+*.avi
+*.mov
+*.exe
+*.zip
+*.rar
+*.unitypackage
+*.psd
+PracticaModulo5/Library/ArtifactDB
+PracticaModulo5/Library/ArtifactDB-lock
+PracticaModulo5/Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libburst-llvm-19.dylib
